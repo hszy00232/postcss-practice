@@ -1,0 +1,11 @@
+{
+  "name": "webpackpostcssstarter",
+  "version": "1.0.0",
+  "description": "Basic starter project for PostCSS use via Webpack",
+  "author": "guopi <hszy00232@163.com> (http://geekfe.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "postcss-loader": "^0.8.2",
+    "webpack": "^1.12.14"
+  }
+}
